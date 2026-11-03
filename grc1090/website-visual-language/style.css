@@ -91,7 +91,7 @@ video {
 
 
 div.home-container {
-	background: #e6beb3;
+	background: #fafafa;
 	background-size: cover;
 	position: relative;
 	width: 100%;
@@ -233,7 +233,7 @@ p.slogan {
 	font-family: serif;
 	font-style: italic;
 	margin: 1em 0.5em 2.7em;
-	color: #fafafa;
+	color: #e6beb3;
 }
 
 footer {
