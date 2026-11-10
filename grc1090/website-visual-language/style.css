@@ -126,7 +126,7 @@ header {
 }
 
 h1 {
-	width: ____;
+	width: 270px;
 }
 
 h2,
@@ -200,15 +200,13 @@ article{
 p.description {
 	grid-column: 1/-1;
 	grid-row: 2;
-	margin: ____;
 }
 
 p.price {
 	grid-row: 1;
 	grid-column: 2;
-	color: black;
+	color: tomato;
 	text-align: right;
-	margin: ____;
 }
 
 nav ul li {
@@ -216,6 +214,7 @@ nav ul li {
 	font-family: sans-serif;
 	font-weight: bold;
 	margin-bottom: 1.2em;
+	font-size: 1.5rem;
 }
 
 nav ul li a {
